@@ -1,0 +1,4 @@
+The actuall source for the Widget is in /src/index.js
+Start the demo server with 'npm start'.
+Build the component with 'npm run-scripts build'.
+The build component is the placed in /umd/DayRotator.min.js
